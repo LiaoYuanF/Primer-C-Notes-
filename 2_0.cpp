@@ -63,3 +63,8 @@
 
 //constexpr类型,把常量的判断交给编译器
 //但constexpr与指针一起使用的时候默认定义如同底层const
+
+//使用typedef定义类型别名
+//typedef oldName newName;
+
+//auto自动类型说明符,定义的变量必须有初始值
